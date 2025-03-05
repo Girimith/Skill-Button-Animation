@@ -1,0 +1,4 @@
+#Wed Mar 05 22:27:13 IST 2025
+base.0=D\:\\Skill Button Animation\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
